@@ -1,0 +1,31 @@
+_repo: Historic-Highways-of-America--Vol.-9-Waterways-of-Westward-Expansion---The-Ohio-River-and-its__41103
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hulbert, Archer Butler
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '1112'
+    url: http://www.gutenberg.org/2009/agents/1112
+description: ''
+gutenberg_issued: '2012-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41103'
+  lccn: 03027980
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Historic Highways of America, Vol. 9
+subjects:
+- !lcc 'E151'
+- !lcsh 'Ohio River'
+tableOfContents: Our first glimpse of the Ohio -- The Indian side -- "The navigator"
+  -- The evolution of river craft -- Three generations of rivermen -- The navigation
+  of the Ohio.
+title: Waterways of Westward Expansion - The Ohio River and its Tributaries
+url: http://www.gutenberg.org/ebooks/41103
